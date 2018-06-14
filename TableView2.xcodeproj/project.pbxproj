@@ -12,6 +12,9 @@
 		C84F167020D3113F0063D4BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C84F166E20D3113F0063D4BD /* Main.storyboard */; };
 		C84F167220D3113F0063D4BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C84F167120D3113F0063D4BD /* Assets.xcassets */; };
 		C84F167520D3113F0063D4BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C84F167320D3113F0063D4BD /* LaunchScreen.storyboard */; };
+		C84F167D20D313160063D4BD /* CS.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C84F167C20D313160063D4BD /* CS.storyboard */; };
+		C84F167F20D313220063D4BD /* Psych.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C84F167E20D313220063D4BD /* Psych.storyboard */; };
+		C84F168120D3132D0063D4BD /* anthro.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C84F168020D3132D0063D4BD /* anthro.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		C84F167120D3113F0063D4BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C84F167420D3113F0063D4BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C84F167620D3113F0063D4BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C84F167C20D313160063D4BD /* CS.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CS.storyboard; sourceTree = "<group>"; };
+		C84F167E20D313220063D4BD /* Psych.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Psych.storyboard; sourceTree = "<group>"; };
+		C84F168020D3132D0063D4BD /* anthro.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = anthro.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				C84F167120D3113F0063D4BD /* Assets.xcassets */,
 				C84F167320D3113F0063D4BD /* LaunchScreen.storyboard */,
 				C84F167620D3113F0063D4BD /* Info.plist */,
+				C84F167C20D313160063D4BD /* CS.storyboard */,
+				C84F167E20D313220063D4BD /* Psych.storyboard */,
+				C84F168020D3132D0063D4BD /* anthro.storyboard */,
 			);
 			path = TableView2;
 			sourceTree = "<group>";
@@ -125,7 +134,10 @@
 			files = (
 				C84F167520D3113F0063D4BD /* LaunchScreen.storyboard in Resources */,
 				C84F167220D3113F0063D4BD /* Assets.xcassets in Resources */,
+				C84F167D20D313160063D4BD /* CS.storyboard in Resources */,
 				C84F167020D3113F0063D4BD /* Main.storyboard in Resources */,
+				C84F168120D3132D0063D4BD /* anthro.storyboard in Resources */,
+				C84F167F20D313220063D4BD /* Psych.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
